@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
+google_analytics: UA-228664744-1
